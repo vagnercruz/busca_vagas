@@ -30,6 +30,10 @@ gem 'eventmachine', '~> 1.2.7'
 gem "haml-rails", "~> 2.0"
 gem 'html2haml'
 
+gem 'bootstrap', '~> 5.3.0'
+gem "cssbundling-rails"
+
+
 
 #gem 'kaminari'
 #gem 'kaminari-bootstrap'
